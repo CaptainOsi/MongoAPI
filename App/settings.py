@@ -1,0 +1,6 @@
+#MongoDB Setting
+MONGO_SERVER_NAME = 'ds051523.mlab.com'
+MONGO_USER_NAME = 'osi'
+MONGO_PASSWORD = 'osi'
+MONGO_BDDNAME = 'blog'
+MONGO_PORT = '51523'
